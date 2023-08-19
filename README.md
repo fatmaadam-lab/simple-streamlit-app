@@ -33,10 +33,10 @@ The user's input is displayed below the input field.
 
 
 ## Deploying your app (Easy and Free) 
-Step 2. Set up an account on <a href="https://streamlit.io/community" >Community Cloud </a>
-Step 3. Connect your account to GitHub
-Step 4. Create a GitHub repo of your app
-Step 5. Deploy your app in a few clicks 
+Step 2. Set up an account on <a href="https://streamlit.io/community" >Community Cloud </a> <br>
+Step 3. Connect your account to GitHub <br>
+Step 4. Create a GitHub repo of your app <br>
+Step 5. Deploy your app in a few clicks <br>
 
 
 
